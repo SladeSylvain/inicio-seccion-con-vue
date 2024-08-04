@@ -26,5 +26,3 @@ Este proyecto proporciona una página de inicio de sesión donde los usuarios pu
 1. **Clona el repositorio:**
    ```bash
    git clone https://github.com/SladeSylvain/authscreen.git
-
-2. npm run serve
