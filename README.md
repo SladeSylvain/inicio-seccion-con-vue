@@ -1,35 +1,30 @@
-# proyectofinal
+# AuthScreen
 
-## Project setup
-```
-npm install
-```
+**AuthScreen** es una página de inicio de sesión creada con Vue.js, Bootstrap y Firebase. Ofrece una interfaz atractiva y funcional para autenticar usuarios, integrando tecnologías modernas y un diseño estilizado.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Descripción
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Este proyecto proporciona una página de inicio de sesión donde los usuarios pueden ingresar su correo electrónico y contraseña para acceder a la aplicación. La página utiliza Firebase para la autenticación, Vue.js para la gestión de estado y el enlace de datos, y Bootstrap para el diseño y estilo de los elementos.
 
-### Run your unit tests
-```
-npm run test:unit
-```
+## Características
 
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
+- **Interfaz de Usuario Atractiva:** Fondo de pantalla completo con un formulario de inicio de sesión centrado.
+- **Autenticación con Firebase:** Gestión segura de la autenticación de usuarios.
+- **Diseño Responsivo:** Utiliza Bootstrap para garantizar que la página se vea bien en todos los dispositivos.
+- **Mensajes de Error y Éxito:** Proporciona retroalimentación clara al usuario en caso de errores de autenticación o éxito.
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Tecnologías Utilizadas
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# inicio-seccion-con-vue
+- **Vue.js:** Para la estructura y lógica del frontend.
+- **Bootstrap:** Para el diseño y estilo de los componentes.
+- **Firebase:** Para la autenticación de usuarios.
+- **HTML/CSS:** Para la estructura y diseño de la página.
+- **JavaScript:** Para la interacción y lógica del formulario.
+
+## Instalación
+
+1. **Clona el repositorio:**
+   ```bash
+   git clone https://github.com/SladeSylvain/authscreen.git
+
+2. npm run serve
